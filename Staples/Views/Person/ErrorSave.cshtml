@@ -1,0 +1,11 @@
+﻿
+@{
+    ViewBag.Title = "ErrorSave";
+}
+
+<h2>Error while saving: </h2>
+@ViewBag.ErrorMessage
+
+Try again:
+
+@{ Html.RenderPartial("Create");  }

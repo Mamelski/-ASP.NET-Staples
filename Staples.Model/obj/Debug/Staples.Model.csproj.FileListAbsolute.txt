@@ -1,0 +1,4 @@
+C:\Users\Jakub\Desktop\Staples\Staples.Model\bin\Debug\Staples.Model.dll
+C:\Users\Jakub\Desktop\Staples\Staples.Model\bin\Debug\Staples.Model.pdb
+C:\Users\Jakub\Desktop\Staples\Staples.Model\obj\Debug\Staples.Model.dll
+C:\Users\Jakub\Desktop\Staples\Staples.Model\obj\Debug\Staples.Model.pdb
